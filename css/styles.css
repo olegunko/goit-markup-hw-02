@@ -3,7 +3,12 @@ background: #ffffff;
 } 
 
 
+<<<<<<< HEAD
 
+=======
+.botton{
+cursor: pointer;}
+>>>>>>> 2bc29f15375bfeec8ecbcb562384da33cc614218
 .menu{
 color: #404bbf;}
 .logo{
@@ -21,7 +26,10 @@ color: #4d5ae5;
 font-style: italic;
 color: #2e2f42;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2bc29f15375bfeec8ecbcb562384da33cc614218
 font
 .menu-nav-index{
 font-weight: 500;
@@ -34,6 +42,7 @@ color: #434455;
 }
 
 .contacts{
+<<<<<<< HEAD
  color: #404bbf;}
 }
 .social-links {
@@ -43,6 +52,24 @@ color: #434455;
 	
 	
 }
+=======
+font-style: normal;
+}
+
+.social-links {
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+color: #404bbf;}
+
+.email-telefon {
+}
+
+.contacts {
+}
+.social-links {
+}
+>>>>>>> 2bc29f15375bfeec8ecbcb562384da33cc614218
 .email-telefon { 
 }
 
@@ -57,9 +84,13 @@ font-size: 56px;
 text-align: center ;
 letter-spacing: 0.02em;
 color: #ffffff;
+<<<<<<< HEAD
  line-height: 1.07 ;
 }
 
+=======
+}
+>>>>>>> 2bc29f15375bfeec8ecbcb562384da33cc614218
 .botton{
 cursor: pointer;
  background-color: #4D5AE5;
@@ -67,7 +98,10 @@ cursor: pointer;
   line-height: 1.5;
    letter-spacing: 0.04em;
     color: #ffffff;
+<<<<<<< HEAD
      background-color: #404BBF
+=======
+>>>>>>> 2bc29f15375bfeec8ecbcb562384da33cc614218
 }
 
       <!-- Section-2 -->
@@ -149,5 +183,14 @@ line-height: 1.5;
 }
 .footer {
 }
+<<<<<<< HEAD
 
 
+=======
+.logo {
+}
+.studio-footer {
+}
+.footer-text {
+}
+>>>>>>> 2bc29f15375bfeec8ecbcb562384da33cc614218
