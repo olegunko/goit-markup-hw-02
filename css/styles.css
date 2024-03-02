@@ -39,12 +39,57 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 color: #404bbf;}
+
 .email-telefon {
-color: #404bbf;}
-.menu{
+}
 
-background-color:#2e2f42}
-
-.hero-image{
-background-color: #2e2f42;
-color: #404bbf;}
+.contacts {
+}
+.social-links {
+}
+.email-telefon { {
+    --iris: #4d5ae5;
+	--ocean: #404bbf;
+	--navy-blue: #2e2f42;
+	
+	
+}
+}
+.box-hero-image {
+}
+.hero-image {
+}
+.botton {
+}
+.light-bg {
+}
+.advantages {
+}
+.feature-text {
+}
+.text {
+}
+.section-sss {
+}
+.our-team {
+}
+.image {
+}
+.headteam {
+}
+.position {
+}
+.our-portfolio {
+}
+.cart-title {
+}
+.cart-content {
+}
+.footer {
+}
+.logo {
+}
+.studio-footer {
+}
+.footer-text {
+}
