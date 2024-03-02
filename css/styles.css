@@ -16,9 +16,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 }
-.studio{
-color: #2e2f42;
-}
+
 .menu-nav-index{
 font-weight: 500;
 letter-spacing: 0.02;
@@ -27,3 +25,17 @@ letter-spacing: 0.02em;
 color: #404bbf;
 line-height: 1.5;
 }
+.contacts{
+font-style: normal;
+}
+.social-links {
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+color: #404bbf;}
+.email-telefon {
+color: #404bbf;}
+.menu{
+background-color:#2e2f42}
+.hero-image{
+background-color: #2e2f42;}
