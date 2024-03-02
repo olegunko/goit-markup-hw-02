@@ -6,7 +6,8 @@ background-color: #ffffff;}
 
 .botton{
 cursor: pointer;}
-
+.menu{
+color: #404bbf;}
 .logo{
 font-family: "Raleway",sans-serif;
 font-weight: 700; 
@@ -15,12 +16,15 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
+ color: #404bbf 
+
 }
 
 .studio{
+font-style: italic;
 color: #2e2f42;
 }
-
+font
 .menu-nav-index{
 font-weight: 500;
 letter-spacing: 0.02;
@@ -28,6 +32,7 @@ color: #2e2f42;
 letter-spacing: 0.02em;
 color: #404bbf;
 line-height: 1.5;
+color: #434455;
 }
 
 .contacts{
@@ -47,43 +52,106 @@ color: #404bbf;}
 }
 .social-links {
 }
-.email-telefon { {
-    --iris: #4d5ae5;
-	--ocean: #404bbf;
-	--navy-blue: #2e2f42;
-	
-	
+.email-telefon { 
 }
-}
+
+        <!-- Section-1 -->
+
+
 .box-hero-image {
+background-color: #2e2f42 ;
 }
 .hero-image {
+font-size: 56px;
+text-align: center ;
+letter-spacing: 0.02em;
+color: #ffffff;
 }
-.botton {
+.botton{
+cursor: pointer;
+ background-color: #4D5AE5;
+  font-weight: 500;
+  line-height: 1.5;
+   letter-spacing: 0.04em;
+    color: #ffffff;
 }
+
+      <!-- Section-2 -->
+
+ 
 .light-bg {
+font-weight: 500;
+font-size: 20px;
+ line-height: 1.2 ;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+
 }
 .advantages {
+
 }
 .feature-text {
 }
 .text {
+line-height: 1.5;
+ letter-spacing: 0.02em;
+
 }
+
+     <!-- Sektion-3 -->
+
+
 .section-sss {
+ background-color: #F4F4FD ;
 }
 .our-team {
+ font-size: 36px;
+ line-height: 1.11 ;
+ text-align: center ;
+ letter-spacing: 0.02em ;
+  text-transform: capitalize;
+  color: #2e2f42;
+  
+  
 }
 .image {
+ background-color: #FFFFFF ;
+
 }
 .headteam {
+font-weight: 500 ;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em ;
+ color: #2e2f42;
 }
 .position {
+line-height: 1.5;
+letter-spacing: 0.02em ;
 }
+
+           <!-- Sektion-4 -->
+
+
 .our-portfolio {
+font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize ;
+ color: #2e2f42;
 }
 .cart-title {
+font-weight: 500 ;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em ;
+ color: #2e2f42;
 }
+
 .cart-content {
+line-height: 1.5;
+ letter-spacing: 0.02em;
 }
 .footer {
 }
