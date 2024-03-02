@@ -6,6 +6,7 @@ background-color: #ffffff;}
 
 .botton{
 cursor: pointer;}
+
 .logo{
 font-family: "Raleway",sans-serif;
 font-weight: 700; 
@@ -14,6 +15,10 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
+line-height: 1.5;
+color: #434455;
+
+
 }
 .studio{
 color: #2e2f42;
@@ -21,6 +26,7 @@ color: #2e2f42;
 .menu-nav-index{
 font-weight: 500;
 letter-spacing: 0.02;
-line-height: 1.5;
 color: #2e2f42;
+letter-spacing: 0.02em;
+color: #404bbf;
 }
