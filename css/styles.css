@@ -11,6 +11,7 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 color: #4d5ae5;
 text-transform: uppercase;
+color: #f4f4fd;
 }
 
 .logo-studion{
@@ -26,6 +27,10 @@ text-transform: uppercase;
 .studio{
 font-style: italic;
 color: #2e2f42;
+
+}
+.header-address{
+ font-style: normal ;
 
 }
 
@@ -60,7 +65,7 @@ color: #404bbf;
 font-style: normal;
 }
 
-.social-links{
+.header-address-item{
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455 ;
@@ -217,7 +222,7 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 color: #4d5ae5;
 text-transform: uppercase;
- 
+ color: #f4f4fd;
 
 }
 
