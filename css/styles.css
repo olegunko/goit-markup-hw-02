@@ -11,7 +11,8 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 color: #4d5ae5;
 text-transform: uppercase;
-color: #f4f4fd;
+color: #2e2f42;
+
 }
 
 .logo-studion{
@@ -24,11 +25,9 @@ color: #f4f4fd;
 }
 
 
-.studio{
-font-style: italic;
-color: #2e2f42;
 
-}
+
+
 .header-address{
  font-style: normal ;
 
@@ -38,6 +37,7 @@ color: #2e2f42;
  line-height: 1.5 ;
  letter-spacing: 0.02em;
  color:  #2e2f42;
+ font-weight: 500;
 }
 
 .header-nav-menu-item{
@@ -87,14 +87,20 @@ line-height: 1.07 ;
 }
 
 
-.botton{
+.solution-btn{
 cursor: pointer;
 background-color: #4D5AE5;
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.04em;
+font-size: 16px;
 color: #ffffff;
 }
+.solution-btn:hover,
+.solution-btn:focus{
+background-color: #404bbf;
+}
+
 
       <!-- Section-2-->
 .aboutus-title{
