@@ -131,7 +131,7 @@ letter-spacing: 0.02em;
 
  <!-- Sektion-4-->
 
-.our-portfolio{
+.ourteam-title{
 font-size: 36px ;
 line-height: 1.11;
 text-align: center;
@@ -139,6 +139,18 @@ letter-spacing: 0.02em;
 text-transform: capitalize ;
 color: #2e2f42;
 }
+.ourteam-item-text{
+line-height: 1.5 ;
+letter-spacing: 0.02em;
+}
+.portfolio-item{
+font-weight: 500 ;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
 
 .portfolio-item-title{
 font-weight: 500 ;
@@ -148,7 +160,14 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 
-
+.our-portfolio{
+ font-size: 36px ;
+  line-height: 1.11;
+   text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitaliz;
+    color: #2e2f42 ;
+}
 
 
 .portfolio-item-text{
@@ -184,6 +203,14 @@ text-transform: uppercase;
    color:#2e2f42;
 }
 
+.logo-studio{
+ font-family: "Raleway", sans-serif;
+ font-weight: 700;
+ font-size: 18px ;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+   color: #f4f4fd;
+}
 .footer-text{
 line-height: 1.5;
 color:  #F4F4FD;
