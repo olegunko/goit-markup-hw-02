@@ -1,4 +1,4 @@
- body{
+  body{
 background: #ffffff;
 font-family:"Roboto",sans-serif;
 color: #434455;
@@ -11,6 +11,8 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 color: #4d5ae5;
 text-transform: uppercase;
+ background-color: #2e2f42;
+
 }
 
 .logo-studion{
@@ -23,9 +25,11 @@ text-transform: uppercase;
 }
 
 
-.studio{
-font-style: italic;
-color: #2e2f42;
+
+
+
+.header-address{
+ font-style: normal ;
 
 }
 
@@ -33,6 +37,7 @@ color: #2e2f42;
  line-height: 1.5 ;
  letter-spacing: 0.02em;
  color:  #2e2f42;
+ font-weight: 500;
 }
 
 .header-nav-menu-item{
@@ -60,7 +65,7 @@ color: #404bbf;
 font-style: normal;
 }
 
-.social-links{
+.header-address-item{
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455 ;
@@ -82,14 +87,20 @@ line-height: 1.07 ;
 }
 
 
-.botton{
+.solution-btn{
 cursor: pointer;
 background-color: #4D5AE5;
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.04em;
+font-size: 16px;
 color: #ffffff;
 }
+.solution-btn:hover,
+.solution-btn:focus{
+background-color: #404bbf;
+}
+
 
       <!-- Section-2-->
 .aboutus-title{
@@ -118,9 +129,9 @@ letter-spacing: 0.02em;
      <!-- Sektion-3-->
 
 
-.ourteam {
-background-color: #F4F4FD;
-} 
+
+
+
 
 .ourteam-title{
 font-size: 36px; 
@@ -129,6 +140,7 @@ text-align: center ;
 letter-spacing: 0.02em ;
 text-transform: capitalize;
 color: #2e2f42;
+background-color: #F4F4FD;
   }
 
 .ourteam-subtitle{
@@ -217,7 +229,7 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 color: #4d5ae5;
 text-transform: uppercase;
- 
+ background-color: #2e2f42;
 
 }
 
@@ -228,7 +240,7 @@ text-transform: uppercase;
   line-height: 1.17;
   letter-spacing: 0.03em;
    color: #f4f4fd;
-   color:#2e2f42;
+   
 }
 
 
