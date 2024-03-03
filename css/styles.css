@@ -22,24 +22,79 @@ color: #404bbf
 
 }
 
-.studio{
+.header-logo-studio{
 font-style: italic;
 color: #2e2f42;
 
 }
-.menu-nav-index{
+.header-nav-menu-list{
 font-weight: 500;
-letter-spacing: 0.02;
 color: #2e2f42 ;
+letter-spacing: 0.02;
 line-height: 1.5;
 color: #434455;
 }
-
-
-
-.social-links {
+.header-nav-menu-link {
 }
-.email-telefon  {
+
+.header-nav-menu-item {
+}
+
+.header-address {
+}
+.header-address-list {
+}
+.header-address-item {
+}
+.hero {
+}
+.hero-slogan {
+}
+.hero-button {
+}
+.aboutus {
+}
+.aboutus-title {
+}
+.aboutus-list {
+}
+.aboutus-item {
+}
+.aboutus-subtittle {
+}
+.aboutus-text {
+}
+.ourteam {
+}
+.ourteam-title {
+}
+.ourteam-list {
+}
+.ourteam-item {
+}
+.ourteam-item-img {
+}
+.ourteam-subtitle {
+}
+.ourteam-item-text {
+}
+.portfolio {
+}
+.portfolio-title {
+}
+.portfolio-list {
+}
+.portfolio-item {
+}
+.portfolio-item-img {
+}
+.portfolio-item-title {
+}
+.portfolio-item-text {
+}
+.footer {
+}
+.footer-logo {l-telefon  {
 
 	
 	
@@ -82,7 +137,7 @@ line-height: 1.07 ;
 }
 
 
-.botton{
+.hero-botton{
 cursor: pointer;
 background-color: #4D5AE5;
 font-weight: 500;line-height: 1.5;
