@@ -1,0 +1,233 @@
+ body{
+background: #ffffff;
+font-family:"Roboto",sans-serif;
+color: #434455;
+} 
+
+
+
+
+ol{
+list-style: none;}
+
+
+.logo{
+font-family: "Raleway",sans-serif;
+font-weight: 700; 
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+color: #404bbf;
+font-size: 18px;
+}
+
+.header-logo-studio{
+font-style: italic;
+color: #2e2f42;
+
+}
+.header-nav-menu-list{
+font-weight: 500;
+color: #2e2f42 ;
+letter-spacing: 0.02;
+line-height: 1.5;
+color: #434455;
+}
+.header-nav-menu-link {
+}
+
+.header-nav-menu-item {
+}
+
+.header-address {
+}
+.header-address-list {
+}
+.header-address-item {
+}
+.hero {
+}
+.hero-slogan {
+}
+.hero-button {
+}
+.aboutus {
+}
+.aboutus-title {
+}
+.aboutus-list {
+}
+.aboutus-item {
+}
+.aboutus-subtittle {
+}
+.aboutus-text {
+}
+.ourteam {
+}
+.ourteam-title {
+}
+.ourteam-list {
+}
+.ourteam-item {
+}
+.ourteam-item-img {
+}
+.ourteam-subtitle {
+}
+.ourteam-item-text {
+}
+.portfolio {
+}
+.portfolio-title {
+}
+.portfolio-list {
+}
+.portfolio-item {
+}
+.portfolio-item-img {
+}
+.portfolio-item-title {
+}
+.portfolio-item-text {
+}
+.footer {
+}
+.footer-logo {l-telefon  {
+
+	
+	
+}
+
+.contacts{
+color: #404bbf;
+font-style: normal;
+}
+
+.social-links {
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+color: #404bbf;}
+
+.email-telefon {
+}
+
+.contacts {
+}
+.social-links {
+}
+
+.email-telefon { 
+}
+
+        <!-- Section-1 -->
+
+
+.box-hero-image {
+background-color: #2e2f42;
+}
+.hero-image { 
+font-size: 56px;
+text-align: center ;
+letter-spacing: 0.02em;
+color: #ffffff;
+line-height: 1.07 ;
+}
+
+
+.hero-botton{
+cursor: pointer;
+background-color: #4D5AE5;
+font-weight: 500;line-height: 1.5;
+letter-spacing: 0.04em;
+color: #ffffff;
+background-color: #404BBF
+
+}
+
+      <!-- Section-2 -->
+
+ 
+.light-bg {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2 ;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.advantages {
+
+}
+.feature-text {
+}
+.text {
+line-height: 1.5;
+letter-spacing: 0.02em;
+
+}
+
+     <!-- Sektion-3 -->
+
+
+.section-sss {
+background-color: #F4F4FD;
+}
+.our-team {
+font-size: 36px; line-height: 1.11 ;
+text-align: center ;
+letter-spacing: 0.02em ;
+text-transform: capitalize;
+color: #2e2f42;
+  
+  
+}
+.image {
+ background-color: #FFFFFF ;
+
+}
+.headteam {
+font-weight: 500 ;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em ;
+color: #2e2f42;
+}
+.position {
+line-height: 1.5;
+letter-spacing: 0.02em ;
+}
+
+           <!-- Sektion-4 -->
+
+
+.our-portfolio {
+font-size: 36px; 
+line-height: 1.11;
+text-align: center; 
+letter-spacing: 0.02em; 
+text-transform: capitalize ; 
+color: #2e2f42; }
+
+.cart-title {
+font-weight: 500 ;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em ;
+color: #2e2f42;
+}
+
+.cart-content {
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+.footer {
+}
+.logo {
+}
+.studio-footer {
+}
+.footer-text {
+}

@@ -14,25 +14,34 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
-font-size: 18px;
+color: #404bbf 
+
 }
 
+.studio{
+font-style: italic;
+color: #2e2f42;
 
-
-
+}
 .menu-nav-index{
 font-weight: 500;
-letter-spacing: 0.02em;
+letter-spacing: 0.02;
 color: #2e2f42 ;
 line-height: 1.5;
+color: #434455;
 }
 
 
 
-.contacts {
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #434455;
+.social-links {
+}
+.email-telefon  {
+
+	
+	
+}
+
+.contacts{
 color: #404bbf;
 font-style: normal;
 }
@@ -59,7 +68,7 @@ line-height: 1.07 ;
 }
 
 
-.bottom{
+.botton{
 cursor: pointer;
 background-color: #4D5AE5;
 font-weight: 500;
