@@ -11,7 +11,7 @@ ol{
 list-style: none;}
 
 
-.studio{
+.menu{
 font-family:"Raleway",sans-serif;
 font-weight: 700; 
 line-height: 1.17;
@@ -35,13 +35,9 @@ color: #434455;
 
 
 
-.social-links {
-}
-.email-telefon  {
+	
+	
 
-	
-	
-}
 
 .contacts{
 color: #404bbf;
@@ -54,16 +50,8 @@ letter-spacing: 0.02em;
 color: #434455;
 color: #404bbf;}
 
-.email-telefon {
-}
+ 
 
-.contacts {
-}
-.social-links {
-}
-
-.email-telefon { 
-}
 
         <!-- Section-1 -->
 
@@ -80,7 +68,7 @@ line-height: 1.07 ;
 }
 
 
-.botton{
+.bottom{
 cursor: pointer;
 background-color: #4D5AE5;
 font-weight: 500;line-height: 1.5;
@@ -101,11 +89,8 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 
-.advantages {
 
-}
-.feature-text {
-}
+
 .text {
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -131,46 +116,5 @@ color: #2e2f42;
  background-color: #FFFFFF ;
 
 }
-.headteam {
-font-weight: 500 ;
-font-size: 20px;
-line-height: 1.2;
-letter-spacing: 0.02em ;
-color: #2e2f42;
-}
-.position {
-line-height: 1.5;
-letter-spacing: 0.02em ;
-}
-
-           <!-- Sektion-4 -->
 
 
-.our-portfolio {
-font-size: 36px; 
-line-height: 1.11;
-text-align: center; 
-letter-spacing: 0.02em; 
-text-transform: capitalize ; 
-color: #2e2f42; }
-
-.cart-title {
-font-weight: 500 ;
-font-size: 20px;
-line-height: 1.2;
-letter-spacing: 0.02em ;
-color: #2e2f42;
-}
-
-.cart-content {
-line-height: 1.5;
-letter-spacing: 0.02em;
-}
-.footer {
-}
-.logo {
-}
-.studio-footer {
-}
-.footer-text {
-}
