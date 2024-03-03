@@ -129,9 +129,9 @@ letter-spacing: 0.02em;
      <!-- Sektion-3-->
 
 
-.ourteam {
-background-color: #F4F4FD;
-} 
+
+
+
 
 .ourteam-title{
 font-size: 36px; 
@@ -140,6 +140,7 @@ text-align: center ;
 letter-spacing: 0.02em ;
 text-transform: capitalize;
 color: #2e2f42;
+background-color: #F4F4FD;
   }
 
 .ourteam-subtitle{
@@ -228,7 +229,7 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 color: #4d5ae5;
 text-transform: uppercase;
- 
+ background-color: #2e2f42;
 
 }
 
@@ -239,7 +240,7 @@ text-transform: uppercase;
   line-height: 1.17;
   letter-spacing: 0.03em;
    color: #f4f4fd;
-   color:#2e2f42;
+   
 }
 
 
