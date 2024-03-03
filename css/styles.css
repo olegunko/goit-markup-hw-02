@@ -32,14 +32,9 @@ color: #434455;
 }
 
 
-
-.social-links {
-}
-.email-telefon  {
-
 	
 	
-}
+
 
 .contacts{
 color: #404bbf;
@@ -53,7 +48,7 @@ color: #434455 ;
 }
 
 
-        <!-- Section-1 -->
+        <!-- Section-1-->
 
 
 .box-hero-image {
@@ -77,7 +72,7 @@ letter-spacing: 0.04em;
 color: #ffffff;
 }
 
-      <!-- Section-2 -->
+      <!-- Section-2-->
 
  
 .advantages {
@@ -90,12 +85,12 @@ color: #2e2f42;
 
 
 
-.text {
+.aboutus-text {
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
-     <!-- Sektion-3 -->
+     <!-- Sektion-3-->
 
 
 .section-sss {
@@ -129,7 +124,7 @@ line-height: 1.5 ;
 letter-spacing: 0.02em;
 }
 
- <!-- Sektion-4 -->
+ <!-- Sektion-4-->
 
 .our-portfolio{
 font-size: 36px ;
@@ -153,7 +148,7 @@ line-height: 1.5 ;
 letter-spacing: 0.02em;
 }
 
-         <!-- Foote -->
+         <!-- Foote-->
 
 .footer{
 background-color: #2e2f42;
