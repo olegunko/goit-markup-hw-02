@@ -23,21 +23,14 @@ text-transform: uppercase;
  color:  #2e2f42
  
 }
-<<<<<<< HEAD
    
-
-
-
-
-
-
 .header-address{
  font-style: normal ;
 
 }
 
-.header-nav-menu-item:hover
-.header-nav-menu-item:focus{
+.header-nav-menu-item-link:hover,
+.header-nav-menu-item-link:focus{
 background-color: #404bbf;
 }
 
