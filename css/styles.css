@@ -31,9 +31,12 @@ text-transform: uppercase;
 
 .header-nav-menu-item-link:hover,
 .header-nav-menu-item-link:focus{
-background-color: #404bbf;
+color: #404bbf;
 }
-
+.header-nav-menu-link:hover,
+.header-nav-menu-link:focus{
+color: #404bbf:
+}
 
 .header-nav-menu-link{
  line-height: 1.5 ;
@@ -42,9 +45,6 @@ background-color: #404bbf;
  font-weight: 500;
 }
 
-.header-nav-menu-item{
-color: #404bbf;
-}
 
 .header-nav-menu-list{
  color: #404bbf;
