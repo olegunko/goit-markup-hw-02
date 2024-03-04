@@ -168,12 +168,14 @@ color: #2e2f42;
 .position{
 line-height: 1.5 ;
 letter-spacing: 0.02em;
+
+}
+.ourteam{
+ background-color: #FFFFFF:
 }
 
  <!-- Sektion-4-->
-.ourteam-list{
- background-color: #FFFFFF:
-}
+
 .ourteam-title{
 font-size: 36px ;
 line-height: 1.11;
