@@ -41,9 +41,11 @@ color: #404bbf;
  color:  #2e2f42;
  font-weight: 500;
 }
-
-
-.header-nav-menu-list{
+.header-nav-menu-link{
+ color: #404bbf;
+}
+.header-nav-menu-link:hover{ color: #404bbf;}
+.header-nav-menu-list:focus{
  color: #404bbf;
  }
 .menu-nav-index{
@@ -72,7 +74,8 @@ color: #434455 ;
 
 
         <!-- Section-1-->
-
+.box-hero-image{
+background-color: #2e2f42;}
 
 
 .hero-image {
