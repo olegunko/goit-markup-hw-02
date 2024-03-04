@@ -74,15 +74,15 @@ color: #434455 ;
         <!-- Section-1-->
 
 .box-hero-image{
-
+background-color: #2e2f42;
 }
 
 .hero-image {
-font: 56px; 
+font-size: 56px; 
 letter-spacing: 0.02em;
 text-align: center;
 color: #ffffff;
-background-color: #2e2f42;
+
 line-height: 1.07;
 font-family: "Raleway", sans-serif;
 }
