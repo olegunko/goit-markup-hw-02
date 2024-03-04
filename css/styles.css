@@ -73,16 +73,14 @@ color: #434455 ;
 
         <!-- Section-1-->
 
-.box-hero-image{
-background-color: #2e2f42;
-}
+
 
 .hero-image {
 font-size: 56px; 
 letter-spacing: 0.02em;
 text-align: center;
 color: #ffffff;
-
+background-color: #2e2f42;
 line-height: 1.07;
 font-family: "Raleway", sans-serif;
 }
@@ -156,8 +154,8 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 
-.image {
-background-color: #FFFFFF ;
+.ourteam {
+background-color: #F4F4FD;
 
 }
 
@@ -230,7 +228,8 @@ background-color: #2e2f42;
 
 
 .logo{
-font-family: "Raleway", sans-serif; font-weight: 700;
+font-family: "Raleway", sans-serif; 
+font-weight: 700;
 font-size: 18px ;
 line-height: 1.17;
 letter-spacing: 0.03em;
