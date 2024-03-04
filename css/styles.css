@@ -78,12 +78,13 @@ color: #434455 ;
 }
 
 .hero-image {
-font: 700 56px / 1.07143 "Roboto", sans-serif;
+font: 56px; 
 letter-spacing: 0.02em;
 text-align: center;
-color: #d9d9d9;
-background: #2e2f42;
-
+color: #ffffff;
+background-color: #2e2f42;
+line-height: 1.07;
+font-family: "Raleway", sans-serif;
 }
 
 
