@@ -143,8 +143,11 @@ text-align: center ;
 letter-spacing: 0.02em ;
 text-transform: capitalize;
 color: #2e2f42;
-background-color: #F4F4FD;
+
   }
+.ourteam-list{
+background-color: #F4F4FD;
+}
 
 .ourteam-subtitle{
 font-weight: 500;
