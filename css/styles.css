@@ -88,23 +88,66 @@ background-color: #404bbf;}
       <--sektion-2->
 
 
+.aboutus-subtittle{
+font-weight:500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+
+<--sektion-3->
+
+.ourteam{
+background-color: #F4F4FD;
+}
+
+.ourteam-title{
+font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2e2f42;
+}
+
+.ourteam-item{
+background-color: #ffffff;}
+
+
+.ourteam-subtitle{
+font-weight:500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.aboutus-text{
+font-size: 16px;
+  line-height: 1.5;
+   letter-spacing: 0.02em;
+   color: #434455 ;
+}
 
 
 
+  <--sektion-4-->
 
 
+.portfolio-item-title{
+font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2e2f42;
+}
 
+.portfolio-item-text{
 
-
-
-
-
-
-
-
-
-
-
+}
 
 
 
