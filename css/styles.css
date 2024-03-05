@@ -23,6 +23,8 @@ text-transform: uppercase;
  color:  #2e2f42
 }
 
+.header-nav-menu-item:{color: #2e2f42;}
+
 
 
 .header-nav-menu-item-link:hover {color: #404bbf;}
@@ -50,10 +52,13 @@ letter-spacing: 0.02;
 color: #2e2f42 ;
 line-height: 1.5;
 color: #434455;
+
 }
 
 
-	
+	.header-address{
+  
+  font-style: normal;}
 	
 
 
