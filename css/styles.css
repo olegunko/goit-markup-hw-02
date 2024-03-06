@@ -9,7 +9,7 @@ color: #434455;
   }
 
 .logoo{
-font-family: "Raleway" sans-serif;
+font-family:"Raleway" sans-serif;
 font-weight: 700 ;
 font-size: 18px;
 line-height: 1.17;
@@ -56,12 +56,13 @@ color: #404bbf;
   <--sektion-1->
 
 .box-hero-image{
-background: var(--navy-blue);
+background-color:#2e2f42;
 
 }
 
 .hero-image{
-font: 700 56px / 1.07143 var(--font-family);
+font-size: 56px;
+line-height: 107;
 letter-spacing: 0.02em;
 text-align: center;
 color: #ffffff;
@@ -108,7 +109,7 @@ color: #2e2f42;
 <--sektion-3->
 
 .ourteam{
-background-color: #F4F4FD;
+background-color: ;
 }
 
 .ourteam-title{
