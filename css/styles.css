@@ -8,7 +8,7 @@ color: #434455;
 
   }
 
-.logo{
+.logoo{
 font-family: "Raleway" sans-serif;
 font-weight: 700 ;
 font-size: 18px;
@@ -19,7 +19,7 @@ color: #4d5ae5;
 
 }
  
-.logo-studio{
+.logo-studion{
 color: #2e2f42 ;
 }
 
@@ -31,9 +31,9 @@ letter-spacing: 0.02em;
 color:  #2e2f42;
 }
 
-.header-nav-menu-link:hover,
-.header-nav-menu-link:focus{
-color: #404bbf;
+
+.header-nav-menu-link{
+color: #434455;
 }
 
 .header-address{
@@ -44,7 +44,7 @@ color: #404bbf;
  font-size: 16px;
   line-height: 1.5;
    letter-spacing: 0.02em;
-   color: #434455 ;
+   color: #434455;
    }
 
 
@@ -56,16 +56,16 @@ color: #404bbf;
   <--sektion-1->
 
 .box-hero-image{
-background-color: #2e2f42;
+background: var(--navy-blue);
 
 }
 
 .hero-image{
-font-size: 56px;
-line-height: 1.07;
+font: 700 56px / 1.07143 var(--font-family);
+letter-spacing: 0.02em;
 text-align: center;
-letter-spacing: 0.02;
 color: #ffffff;
+background-color: #2e2f42;
 }
 
 .solution-btn{
@@ -87,7 +87,15 @@ background-color: #404bbf;}
 
       <--sektion-2->
 
-
+ .aboutus-title{    
+font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2e2f42;
+ }
+ 
 .aboutus-subtittle{
 font-weight:500;
 font-size: 20px;
@@ -163,4 +171,16 @@ color:  #F4F4FD;
 letter-spacing: 0.02em;
 background-color: #2e2f42;
 
+}
+.logo{
+font-family: "Raleway" sans-serif;
+font-weight: 700 ;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase ;
+color: #4d5ae5;}
+
+.logo-studio{
+color: #ffffff ;
 }
