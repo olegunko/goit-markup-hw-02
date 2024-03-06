@@ -9,7 +9,7 @@ color: #434455;
   }
 
 .logoo{
-font-family:"Raleway" sans-serif;
+font-family:"Raleway", sans-serif;
 font-weight: 700 ;
 font-size: 18px;
 line-height: 1.17;
@@ -58,10 +58,7 @@ color: #404bbf;
   background-color:#2e2f42;
   }
 
-.box-hero-image{
-background-color:#2e2f42;
 
-}
 
 .hero-image{
 font-size: 56px;
@@ -74,7 +71,7 @@ background-color: #2e2f42;
 
 .solution-btn{
 background-color: #4d5ae5;
-font-family: "Robota" sans-serif;
+font-family: "Robota"sans-serif;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
@@ -186,7 +183,7 @@ background-color: #2e2f42;
 
 }
 .logo{
-font-family: "Raleway" sans-serif;
+font-family: "Raleway",sans-serif;
 font-weight: 700 ;
 font-size: 18px;
 line-height: 1.17;
