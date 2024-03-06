@@ -111,7 +111,7 @@ color: #2e2f42;
 <--sektion-3->
 
 .ourteam{
-background-color: ;
+background-color: #F4F4FD ;
 }
 
 .ourteam-title{
@@ -166,6 +166,8 @@ color: #2e2f42;
 }
 
 .portfolio-item-text{
+line-height: 1.5;
+letter-spacing: 0.02em;
 
 }
 
@@ -194,5 +196,5 @@ text-transform: uppercase ;
 color: #4d5ae5;}
 
 .logo-studio{
-color: #ffffff ;
+color: #F4F4FD;
 }
