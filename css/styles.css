@@ -54,6 +54,9 @@ color: #404bbf;
 }
 
   <--sektion-1->
+  .main{
+  background-color:#2e2f42;
+  }
 
 .box-hero-image{
 background-color:#2e2f42;
@@ -62,7 +65,7 @@ background-color:#2e2f42;
 
 .hero-image{
 font-size: 56px;
-line-height: 107;
+line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #ffffff;
