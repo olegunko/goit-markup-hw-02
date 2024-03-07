@@ -31,9 +31,9 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 
-.header-nav-menu-link:hover,header-nav-menu-link:hover{
-
- color: #404bbf;
+.header-nav-menu-link:hover,
+.header-nav-menu-link:hover{
+color: #404bbf;
 }
 
 .header-address{
