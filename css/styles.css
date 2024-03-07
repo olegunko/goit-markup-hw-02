@@ -32,7 +32,7 @@ color: #2e2f42;
 }
 
 .header-nav-menu-link:hover,
-.header-nav-menu-link:hover{
+.header-nav-menu-link:focus{
 color: #404bbf;
 }
 
