@@ -47,9 +47,11 @@ color: #404bbf;
    color: #434455;
    }
 
-.header-address-item:focus,
-.header-address-items:hover
-{
+.header-address-item:focus{
+color: #404bbf;
+text-decoration: underline;}
+
+.header-address-items:hover{
 color: #404bbf;
 }
 
