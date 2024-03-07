@@ -33,7 +33,7 @@ color: #2e2f42;
 
 .header-nav-menu-link:hover,
 .header-nav-menu-link:focus{
-color: var(--navy-blue);
+color: #404bbf;
 }
 
 .header-address{
@@ -48,10 +48,7 @@ color: var(--navy-blue);
    }
 
 
-.header-address-items:hover{
-color: #404bbf;
-}
-.header-address-item:focus{
+.header-address-items:hover,header-address-item:focus{
 color: #404bbf;
 }
 
